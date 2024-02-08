@@ -1,3 +1,3 @@
 # Interpreter-Project
 
-An Interpreter made in OCaml
+A simple stack-oriented programming language interpreter made with OCaml for a Class Project
